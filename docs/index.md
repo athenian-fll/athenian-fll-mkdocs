@@ -9,6 +9,4 @@
 * [Game Rules](https://firstinspiresst01.blob.core.windows.net/fll/2019/FIRST-FLL-2018-19-ChallengeGuide-Letter.pdf)
 * [Challenge Updates](https://firstinspiresst01.blob.core.windows.net/fll/2019/into-orbit-challenge-updates.pdf)
 
-The Athenian FLL website content is [here](https://github.com/athenian-fll/athenian-fll-mkdocs).
-
 
