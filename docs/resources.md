@@ -11,3 +11,6 @@
 
 ## Low Level Details
 * [.uf2 File Format Details](https://github.com/Microsoft/uf2)
+
+## Makecode 
+* [Windows One Click Deploy](http://www.allsalescomputers.com/one-click-deploy-for-makecode-and-the-amazing-adafruit-circuit-playground-express/)
