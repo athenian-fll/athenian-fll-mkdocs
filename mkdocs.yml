@@ -4,7 +4,7 @@ site_description: Athenian FRC Robotics Documentation
 site_author: Athenian FLL Robotics Team
 
 repo_url: https://github.com/athenian-fll/athenian-fll-mkdocs
-repo_name: 'GitHub'
+repo_name: 'GitHub Home'
 
 nav:
 - Home: index.md
