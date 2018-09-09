@@ -1,5 +1,3 @@
-## Website content for [www.athenian-fll.org](http://www.athenian-fll.org)
-
 ## Setup
 1. Clone [athenian-fll-mkdocs](https://github.com/athenian-fll/athenian-fll-mkdocs) and [athenian-fll.github.io](https://github.com/athenian-fll/athenian-fll.github.io) repos
 2. Install [mkdocs](https://www.mkdocs.org)
