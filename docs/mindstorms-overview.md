@@ -1,6 +1,6 @@
 # Mindstorms Overview
 
-!!! note "Important"
+!!! important "Important"
     
     * Assign and label each EV3 with a unique name
    
