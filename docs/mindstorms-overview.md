@@ -1,8 +1,10 @@
 # Mindstorms Overview
 
-## Setup
-* Assign and label each EV3 with a unique name 
-* Make sure Bluetooth is enabled on both the EV3 and the computer/iPad.
+!!! note "Important"
+    
+    * Assign and label each EV3 with a unique name
+   
+    * Make sure Bluetooth is enabled on both the EV3 and the computer/iPad.
 
 ## Hardware 
 * Brick

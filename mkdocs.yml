@@ -7,15 +7,15 @@ repo_url: https://github.com/athenian-fll/athenian-fll-mkdocs
 repo_name: 'GitHub Home'
 
 nav:
-- Home: index.md
-- EV3 Brick Setup: setup.md
-- Mindstorms Overview: mindstorms-overview.md
-- Mindstorms Exercises: mindstorms-exercises.md
-- Makecode Projects: makecode-projects.md
-- Makecode Coding: coding.md
-- Makecode Exercises:
-  - Goofy Eyes: goofy-eyes.md
-- Resources: resources.md
+  - Home: index.md
+  - EV3 Brick Setup: setup.md
+  - Mindstorms Overview: mindstorms-overview.md
+  - Mindstorms Exercises: mindstorms-exercises.md
+  - Makecode Projects: makecode-projects.md
+  - Makecode Coding: makecode-coding.md
+  - Makecode Exercises:
+    - Goofy Eyes: goofy-eyes.md
+  - Resources: resources.md
 
 theme:
   name: 'material'
@@ -35,6 +35,9 @@ theme:
     code: Roboto Mono
   logo: 'images/owls.jpg'
   favicon: 'assets/images/favicon.ico'
+
+markdown_extensions:
+  - admonition
 
 google_analytics: ['UA-124591545-1', 'auto']
 

@@ -1,4 +1,4 @@
-# EV3 Coding
+# Makecode Coding
 
 * [Tutorials](https://makecode.mindstorms.com/tutorials/wake-up)
 

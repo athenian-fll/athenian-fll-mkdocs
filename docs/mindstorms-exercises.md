@@ -1,12 +1,13 @@
 # Mindstorms Exercises
-     
-## Key Concepts
-* Instruction Sequence
-* Loops
-* Conditionals  
-* Predicates
-* Input/Output (sensors, buttons, LEDs, display, motors)
-* Motor Control   
+   
+!!! note "Key Concepts"
+
+    * Instruction Sequence
+    * Loops
+    * Conditionals  
+    * Predicates
+    * Input/Output (sensors, buttons, LEDs, display, motors)
+    * Motor Control   
      
 ## Follow Along and Copy Exercises
 
