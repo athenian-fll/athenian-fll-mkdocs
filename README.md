@@ -11,5 +11,5 @@
 | `make website`        | Build the website in site/                   |
 | `make clean`          | Delete site/                                 |
 | `make server`         | Start the live-reloading docs server         |
-| `make deploy`         | Deploy site to athenian-fll.github.io        |
+| `make deploy`         | Deploy content to athenian-fll.github.io     |
 
