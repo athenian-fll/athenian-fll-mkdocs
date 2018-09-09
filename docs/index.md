@@ -4,7 +4,6 @@
 
 <img src="https://www.firstinspires.org/sites/default/files/uploads/resource_library/fll/into-orbit/into-orbit-logo.jpg" alt="drawing" width="200"/>
 
-## INTO ORBIT
 * [Game Description](https://firstinspiresst01.blob.core.windows.net/fll/2019/FIRST-FLL-2018-19-Challenge-Letter.pdf)
 * [Game Videos](https://www.youtube.com/playlist?list=PLpaPRqT711tgthX5cNEvayldhsrtBVape)
 * [Game Rules](https://firstinspiresst01.blob.core.windows.net/fll/2019/FIRST-FLL-2018-19-ChallengeGuide-Letter.pdf)
