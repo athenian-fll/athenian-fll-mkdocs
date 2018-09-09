@@ -1,0 +1,40 @@
+site_name: Athenian FLL Robotics
+site_url: http://www.athenian-fll.org
+site_description: Athenian FRC Robotics Documentation
+site_author: Athenian FLL Robotics Team
+
+repo_url: https://github.com/athenian-robotics/athenian-fll-website
+repo_name: 'GitHub'
+
+nav:
+- Home: index.md
+- EV3 Brick Setup: setup.md
+- Mindstorms Overview: mindstorms-overview.md
+- Mindstorms Exercises: mindstorms-exercises.md
+- Makecode Projects: makecode-projects.md
+- Makecode Coding: coding.md
+- Makecode Exercises:
+  - Goofy Eyes: goofy-eyes.md
+- Resources: resources.md
+
+theme:
+  name: 'material'
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  language: en
+  feature:
+    tabs: false
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo:
+    icon: "\uE80C"
+
+google_analytics: ['UA-124591545-1', 'auto']
+
