@@ -17,7 +17,7 @@ nav:
     - Coding: makecode-coding.md
     - Exercises:
       - Goofy Eyes: goofy-eyes.md
-  - Resources: resources.md
+  - EV3 Resources: resources.md
 
 theme:
   name: 'material'
