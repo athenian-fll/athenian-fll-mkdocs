@@ -18,7 +18,7 @@ want to edit a previously-saved project, you have to publish it again to a new U
 
 ## Sharing Projects
 
-To share a project with another person via a URL:
+### Share a project with another person via a URL
  
 1. Click on ``share`` and then ``Publish project``.
 2. Copy the project URL and email it to another user.
@@ -27,12 +27,12 @@ go to the [Makecode Mindstorms](https://makecode.mindstorms.com) page click on `
 4. Changes to the new project will not be reflected in the original project. To save changes, publish it 
 as a new project.
 
-To share a project with another person via a ```.uf2``` file:
+### Share a project with another person via a ```.uf2``` file
 
 1. Download the project ```.uf2``` file
 2. Go to the [Makecode Mindstorms](https://makecode.mindstorms.com) page, click on ``Import`` and import the ```.uf2``` file.
 
-To publish your project on a webpage for others to use:
+### Publish your project on a webpage for others to use
 
 1. Click on ``share`` and then ``Publish project``.
 2. Expand on ``Embed``.
