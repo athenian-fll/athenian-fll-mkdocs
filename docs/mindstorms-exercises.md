@@ -1,6 +1,6 @@
 # Mindstorms Exercises
    
-!!! note "Key Concepts"
+!!! summary "Key Concepts"
 
     * Instruction Sequence
     * Loops
