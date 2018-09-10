@@ -1,14 +1,14 @@
 # Makecode Projects
 
-## Loading Projects
+!!! warning "Loading Projects"
 
-You have to connect a serial cable to the EV3 brick to load new projects. Bluetooth and Wifi connections
-will not work.
+    You have to connect a serial cable to the EV3 brick to load new projects. Bluetooth and Wifi connections
+    will not work.
 
-## User History
+!!! warning "User History"
 
-There is no login screen. Your project history is stored on a browser-specific basis. Thus, if you 
-switch from Safari to Chrome, you will not see the projects, previously created in Safari, on Chrome.
+    There is no login screen. Your project history is stored on a browser-specific basis. Thus, if you 
+    switch from Safari to Chrome, you will not see the projects, previously created in Safari, on Chrome.
 
 ## Editing Projects
 * Once you publish a project, the project associated with that URL is read-only. If you 

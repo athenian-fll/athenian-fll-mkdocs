@@ -9,12 +9,14 @@ repo_name: 'GitHub Home'
 nav:
   - Home: index.md
   - EV3 Brick Setup: setup.md
-  - Mindstorms Overview: mindstorms-overview.md
-  - Mindstorms Exercises: mindstorms-exercises.md
-  - Makecode Projects: makecode-projects.md
-  - Makecode Coding: makecode-coding.md
-  - Makecode Exercises:
-    - Goofy Eyes: goofy-eyes.md
+  - Mindstorms:
+    - Overview: mindstorms-overview.md
+    - Exercises: mindstorms-exercises.md
+  - Makecode:
+    - Projects: makecode-projects.md
+    - Coding: makecode-coding.md
+    - Exercises:
+      - Goofy Eyes: goofy-eyes.md
   - Resources: resources.md
 
 theme:
