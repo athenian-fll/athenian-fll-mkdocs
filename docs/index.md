@@ -5,7 +5,7 @@
 
 !!! note "CITY SHAPER"
 
-    <img src=https://fllblog.files.wordpress.com/2019/07/city-shaper-logo.png/>
+    <img src=https://fllblog.files.wordpress.com/2019/07/city-shaper-logo.png height="100">
     
     * [Game Description](https://firstinspiresst01.blob.core.windows.net/fll/2019/FIRST-FLL-2018-19-Challenge-Letter.pdf)
     * [Game Videos](https://www.youtube.com/playlist?list=PLpaPRqT711tgthX5cNEvayldhsrtBVape)
