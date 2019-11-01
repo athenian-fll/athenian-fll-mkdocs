@@ -8,6 +8,6 @@
     <img src=https://fllblog.files.wordpress.com/2019/07/city-shaper-logo.png height="100">
     
     * [Game Description](https://firstinspiresst01.blob.core.windows.net/fll/2019/FIRST-FLL-2018-19-Challenge-Letter.pdf)
-    * [Game Videos](https://www.youtube.com/playlist?list=PLpaPRqT711tgthX5cNEvayldhsrtBVape)
+    * [Game Videos](https://www.youtube.com/playlist?list=PLpaPRqT711tj7P6W7ZeMleMrTB5LYugV3)
     * [Game Rules](https://firstinspiresst01.blob.core.windows.net/fll/2019/FIRST-FLL-2018-19-ChallengeGuide-Letter.pdf)
     * [Challenge Updates](https://firstinspiresst01.blob.core.windows.net/fll/2019/into-orbit-challenge-updates.pdf)
