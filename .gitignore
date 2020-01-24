@@ -1,4 +1,8 @@
 .idea
+.vscode
 site
 .site
 .DS_Store
+.classpath
+.settings
+.project
