@@ -1,3 +1,17 @@
+nav:
+  - Home: index.md
+  - EV3 Brick Setup: setup.md
+  - Mindstorms:
+      - Overview: mindstorms-overview.md
+      - Exercises: mindstorms-exercises.md
+  - Makecode:
+      - Projects: makecode-projects.md
+      - Coding: makecode-coding.md
+      - Exercises:
+          - Goofy Eyes: goofy-eyes.md
+  - EV3 Resources: resources.md
+
+
 site_name: Athenian FLL Robotics
 site_url: http://www.athenian-fll.org
 site_description: Athenian FRC Robotics Documentation
@@ -5,19 +19,6 @@ site_author: Athenian FLL Robotics Team
 
 repo_url: https://github.com/athenian-fll/athenian-fll-mkdocs
 repo_name: 'GitHub Home'
-
-nav:
-  - Home: index.md
-  - EV3 Brick Setup: setup.md
-  - Mindstorms:
-    - Overview: mindstorms-overview.md
-    - Exercises: mindstorms-exercises.md
-  - Makecode:
-    - Projects: makecode-projects.md
-    - Coding: makecode-coding.md
-    - Exercises:
-      - Goofy Eyes: goofy-eyes.md
-  - EV3 Resources: resources.md
 
 theme:
   name: 'material'

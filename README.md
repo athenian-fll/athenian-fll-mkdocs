@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/80f5747b-2d28-4d4b-900b-7bafa45d7d38/deploy-status)](https://app.netlify.com/sites/athenian-fll/deploys)
+
 ## Setup
 1. Clone the [athenian-fll-mkdocs](https://github.com/athenian-fll/athenian-fll-mkdocs) and [athenian-fll.github.io](https://github.com/athenian-fll/athenian-fll.github.io) repos.
 2. Install [MkDocs](https://www.mkdocs.org).
